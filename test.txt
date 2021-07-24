@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8A90-2590
+
+ Directory of C:\Users\user\OneDrive\Documents\MyGit
+
+2021-07-24  05:21 PM    <DIR>          .
+2021-07-24  05:21 PM    <DIR>          ..
+2021-07-24  05:21 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  109,462,282,240 bytes free
